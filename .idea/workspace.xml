@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c6525d-834c-4fbd-a92c-45136d36055b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/models/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schemas/client_schema.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/client_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/document.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/document.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schemas/document_schema.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/document_service.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -27,9 +27,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="3DcM0gYq2fHpGnctFTcZS487ilf" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -41,6 +41,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
