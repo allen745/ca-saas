@@ -26,41 +26,7 @@ A full-stack B2B SaaS application built for India's 400,000+ practicing Chartere
 **Frontend**
 - React.js
 - JavaScript
-
-## 📁 Project Structure
-
-ca_saas/
-├── main.py
-├── database.py
-├── .env
-├── requirements.txt
-├── models/
-│   ├── user.py
-│   ├── client.py
-│   ├── document.py
-│   └── notice.py
-├── schemas/
-│   ├── auth_schema.py
-│   ├── client_schema.py
-│   ├── document_schema.py
-│   └── notice_schema.py
-├── services/
-│   ├── auth_service.py
-│   ├── client_service.py
-│   ├── document_service.py
-│   ├── ai_service.py
-│   ├── anomaly_service.py
-│   └── notice_service.py
-├── routes/
-│   ├── auth.py
-│   ├── client.py
-│   ├── document.py
-│   ├── ai.py
-│   ├── anomaly.py
-│   └── notice.py
-└── core/
-└── security.py
-
+  
 ## ⚙️ Setup & Installation
 
 ### 1. Clone the repository
