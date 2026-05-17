@@ -2,7 +2,7 @@
 
 A full-stack B2B SaaS application built for India's 400,000+ practicing Chartered Accountants.
 
-## 🚀 Features
+##  Features
 
 - **Authentication** — CA Register & Login with JWT tokens
 - **Client Management** — Add, view, update, delete clients with PAN details
@@ -12,7 +12,7 @@ A full-stack B2B SaaS application built for India's 400,000+ practicing Chartere
 - **Notice Tracker** — Track ITD notices with deadlines and status
 - **React Frontend** — Clean web interface for all features
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Backend**
 - Python 3.12
@@ -27,7 +27,7 @@ A full-stack B2B SaaS application built for India's 400,000+ practicing Chartere
 - React.js
 - JavaScript
   
-## ⚙️ Setup & Installation
+##  Setup & Installation
 
 ### 1. Clone the repository
 ```bash
@@ -67,7 +67,7 @@ npm install
 npm start
 ```
 
-## 📡 API Endpoints
+## API Endpoints
 
 ### Auth
 - `POST /auth/register` — Register a new CA
@@ -101,7 +101,7 @@ npm start
 - `PUT /notices/{id}` — Update notice status
 - `DELETE /notices/{id}` — Delete notice
 
-## 🗺️ Roadmap
+## Roadmap
 
 - [x] Block 1 — Authentication
 - [x] Block 2 — Client Management
